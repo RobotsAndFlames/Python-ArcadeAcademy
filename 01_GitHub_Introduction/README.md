@@ -13,3 +13,25 @@ Follow these steps to check out the project from GitHub.
 * Now you have the project and it is linked to the GitHub project:
   * ![You are ready](images/Code_5.png)
 
+# Contribute to the GitHub project
+
+Follow these steps to add/change something to the project.
+
+* Make your own folders in 02_Python_introduction, like this one called Robert
+* Place your Python code in here.
+  * ![GitHub Login](images/Code_6.png)
+* Select the Source Control part of Code
+  * ![Source Control](images/Code_7.png)
+* Allways first Pull from GitHub, to see if others made changes
+  * ![Pull before commit and push](images/Code_8.png)
+  * Then you have to merge if there are conflicts in the changes you made
+* Select the files to stage and commit (local on your machine)
+  * ![Stage files for commit](images/Code_9.png)
+* Write a commit message (which changes did you make?)
+  * ![Commit message](images/Code_10.png)
+* Commit your changes
+  * ![Commit message](images/Code_11.png)
+* Push your changes to GitHub
+  * ![Push change](images/Code_12.png)
+  * Require Login the first time
+  * ![GitHub Login](images/Code_13.png)
