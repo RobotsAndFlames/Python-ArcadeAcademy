@@ -27,11 +27,12 @@ Follow these steps to add/change something to the project.
   * Then you have to merge if there are conflicts in the changes you made
 * Select the files to stage and commit (local on your machine)
   * ![Stage files for commit](images/Code_9.png)
-* Write a commit message (which changes did you make?)
+* Write a commit message (which changes did you make?) and commit with the checkmark
   * ![Commit message](images/Code_10.png)
-* Commit your changes
-  * ![Commit message](images/Code_11.png)
 * Push your changes to GitHub
-  * ![Push change](images/Code_12.png)
+  * ![Push change](images/Code_11.png)
   * Require Login the first time
+  * ![GitHub Login](images/Code_12.png)
+* Now you will be able to see your changes on github
+  * https://github.com/RobotsAndFlames/Python-ArcadeAcademy/commits/master
   * ![GitHub Login](images/Code_13.png)
