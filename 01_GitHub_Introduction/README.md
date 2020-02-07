@@ -2,6 +2,8 @@
 
 Follow these steps to check out the project from GitHub.
 
+* Install git on your machine: https://git-scm.com/download
+  * Start or re-start Code
 * Open Terminal in Code:
   * ![Open terminal in Code](images/Code_1.png)
 * Run the git clone command:
