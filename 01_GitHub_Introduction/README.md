@@ -6,6 +6,11 @@ Follow these steps to check out the project from GitHub.
   * Start or re-start Code
 * Open Terminal in Code:
   * ![Open terminal in Code](images/Code_1.png)
+* Run these git commands:
+  * git config --global user.name "Firstname Lastname"
+    * With your own name ;-)
+  * git config --global user.email "email@example.com"
+    * With your own email ;-)
 * Run the git clone command:
   * git clone https://github.com/RobotsAndFlames/Python-ArcadeAcademy.git
   * ![git clone command](images/Code_2.png)
