@@ -10,7 +10,7 @@ Follow these steps to check out the project from GitHub.
 * Open Terminal in Code:
   * ![Open terminal in Code](images/Code_1.png)
 * Run these git commands:
-  * git config --global user.name "Firstname Lastname"
+  * git config --global user.name "github username"
     * With your own name ;-)
   * git config --global user.email "email@example.com"
     * With your own email ;-)
