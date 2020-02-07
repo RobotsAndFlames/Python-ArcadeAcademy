@@ -2,6 +2,9 @@
 
 Follow these steps to check out the project from GitHub.
 
+* Create an account at https://github.com/
+  * Check your email and verify your account
+  * Send your email to one of the [owners](https://github.com/orgs/RobotsAndFlames/people) in order to be able to contribute to the project
 * Install git on your machine: https://git-scm.com/download
   * Start or re-start Code
 * Open Terminal in Code:
@@ -11,7 +14,7 @@ Follow these steps to check out the project from GitHub.
     * With your own name ;-)
   * git config --global user.email "email@example.com"
     * With your own email ;-)
-* Run the git clone command:
+* Run the git clone command in the folder where you want the folder called Python-ArcadeAcademy:
   * git clone https://github.com/RobotsAndFlames/Python-ArcadeAcademy.git
   * ![git clone command](images/Code_2.png)
 * Open the newly created folder in Code:
